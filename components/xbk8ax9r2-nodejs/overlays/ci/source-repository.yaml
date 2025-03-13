@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xbk8ax9r2-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xbk8ax9r2-nodejs
